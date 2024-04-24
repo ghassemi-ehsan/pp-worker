@@ -7,7 +7,7 @@ let userID = '8e941a75-1001-42b3-8ed0-4050c7fa108d';
 const proxyIPs = ['mtn.ircf.space', 'mkh.ircf.space', 'mci.ircf.space', 'rtl.ircf.space'];
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
-let dohURL = 'https://free.shecan.ir/dns-query';
+let dohURL = 'https://94.140.14.14/dns-query';
 // (dohURL) list :
 // https://cloudflare-dns.com/dns-query
 // https://dns.google/dns-query
